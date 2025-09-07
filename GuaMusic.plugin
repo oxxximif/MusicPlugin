@@ -3,8 +3,9 @@ __name__ = "Gua Music"
 __description__ = "Plugin GuAmeSS"
 __author__ = "@oxxximif and @TyanPlugin"
 __version__ = "0.0.1"
-__icon__ = "TyanPlugins/6"
+__icon__ = "TyanPlugins/5"
 __min_version__ = "11.12.0"
  
 class WeatherPlugin(BasePlugin):
+
     pass
